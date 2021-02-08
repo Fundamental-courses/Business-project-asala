@@ -41,4 +41,4 @@ ii. Clone the repository using CLR (Command Line Interface) of your choice as fo
 - Aasla wael
 
 ### Github Pages Link:
-Your site is published at https://fundamental-courses.github.io/Business-project-asala/
+ https://fundamental-courses.github.io/Business-project-asala/
